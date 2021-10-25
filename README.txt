@@ -1,31 +1,6 @@
-Stellar by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-
-
-Say hello to Stellar, a slick little one-pager with a super vibrant color palette (which
-I guess you can always tone down if it's a little too vibrant for you), a "sticky" in-page
-nav bar (powered by my Scrollex plugin), a separate generic page template (just in case
-you need one), and an assortment of pre-styled elements.
-
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+Profile with the following projects :
+COVID 19 Data Exploration
+In this project we use Oracle SQL Developer to explore global COVID 19 data and to understand metrics like population vaccinated, highest death count, total cases vs population, total cases vs total deaths.
+Tableau Dashboards
+This project involves data visualization of the Covid-19 data across the world using Tableau for metrics like infection rate, total infected, the effect of vaccinations vs new cases and total deaths on a Tableau dashboard.
+Cyclistic Analysis - Capstone project for Google Data Analystics.
